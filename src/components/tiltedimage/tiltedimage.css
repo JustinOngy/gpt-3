@@ -1,0 +1,22 @@
+/* .image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.bobble-image {
+  animation: bobble 1s ease-in-out infinite;
+}
+
+@keyframes bobble {
+  0% {
+    transform: translateX(-5px) rotate(-5deg);
+  }
+  50% {
+    transform: translateX(5px) rotate(5deg);
+  }
+  100% {
+    transform: translateX(-5px) rotate(-5deg);
+  }
+} */

@@ -1,0 +1,22 @@
+.brands__logos {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.gpt3__brand {
+  flex: 1;
+  max-width: 150px;
+  min-width: 120px;
+  margin: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 10;
+}
+
+.gpt3__brand:hover {
+  filter: invert(86%) sepia(11%) saturate(6277%) hue-rotate(278deg)
+    brightness(90%) contrast(80%);
+}
